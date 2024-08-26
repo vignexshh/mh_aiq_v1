@@ -97,7 +97,7 @@ def main():
         </style>
     """, unsafe_allow_html=True)
 
-    st.title("Neet UG-2024 All India Quota Results | Round-01")
+    st.title("Medical Hunt Neet UG-2024 All India Quota Results | Round-01")
 
     # Initialize session state variables if not already present
     if "auth_status" not in st.session_state:
