@@ -20,8 +20,8 @@ if not firebase_admin._apps:
 
 # Set page configuration
 st.set_page_config(
-    page_title="Neet UG-2024 Results",
-    page_icon="favicon.ico",  # Path to your favicon file
+    page_title="Medical Hunt Neet UG-2024 Results",
+    page_icon="https://assets-global.website-files.com/662922396de5cb3b0f5bdfa3/662965bb68a97a7cf5b3eb78_caduceus-p-500.png",  # Path to your favicon file
     layout="wide"
 )
 
