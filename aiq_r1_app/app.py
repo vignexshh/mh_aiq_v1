@@ -72,7 +72,7 @@ def authenticate_user(username, password):
 
 def main():
     st.markdown("""
-        <title>Neet UG-2024 All India Quota Results | Round-01</title>
+        <title>MedicalHunt Neet UG-2024 All India Quota Results | Round-01</title>
         <meta name="description" content="View NEET UG-2024 All India Quota Results for Round-01. Filter results based on rank, quota, course, and category.">
         <meta property="og:title" content="Neet UG-2024 All India Quota Results | Round-01">
         <meta property="og:description" content="View NEET UG-2024 All India Quota Results for Round-01. Filter results based on rank, quota, course, and category.">
